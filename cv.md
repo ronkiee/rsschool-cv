@@ -72,3 +72,7 @@
 * **Czech University of Life Sciences Prague**  
  *Bachelor's degreeField Of StudyInformatics  
  *2020 – 2023*
+## Languages
+ * English - B1
+ * Czech - B1
+ * Russian - native
