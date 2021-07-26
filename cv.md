@@ -62,3 +62,13 @@
  *Skill to work with the specialized 1C program:Company;*  
  *Creating, editing, and writing product card descriptions;*  
  *Monitoring an online store*
+## Education
+* **Minsk Radioengineering College**  
+ *Secondary special educationField Of StudyElectronic computing facilities*  
+ *2014 – 2018*
+* **Belarusian State University of Informatics and Radioelectronics**  
+ *Bachelor's degreeField Of StudyProgrammable mobile systems*  
+ *2018 – 2019*
+* **Czech University of Life Sciences Prague**  
+ *Bachelor's degreeField Of StudyInformatics  
+ *2020 – 2023*
